@@ -1,1 +1,2 @@
 rootProject.name = 'ConfigService'
+spring.cloud.config.profile=dev
