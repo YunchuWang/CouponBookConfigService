@@ -10,4 +10,5 @@ spring:
                     password: Bill@2019
                     uri: https://github.com/YunchuWang/CouponBookConfigService
                     username: peterstone2017
+                    searchPaths: foo,bar*
             profile: dev
